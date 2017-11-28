@@ -29,7 +29,13 @@ img{
     height:
 }
 
-
+p{
+    border-style:dotted;
+    padding: 20px;
+    margin: 20px;
+    width: 25%; 
+    height: 150px;
+}
 
 
 
