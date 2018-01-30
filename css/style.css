@@ -14,8 +14,6 @@ h2{
 }
 
 
-
-
 p{
     color:white
 }
@@ -62,27 +60,43 @@ a:active {
 }
 
 
+span{ font-weight:bold
+    
+    
+}
+
+table{
+    color:white
+}
 
 
 
 
 
+div {
+    background: linear-gradient(to bottom, #000066 0%, #ff99cc 100%);
+}
 
 
 
 
+h2{
+    
+    color:white
+}
 
 
 
 
+h1{
+    color:blue
+}
 
 
-
-
-
-
-
-
+body {
+    font-family: 'Sofia';
+    font-size: 22px;
+}
 
 
 
