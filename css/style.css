@@ -1,4 +1,4 @@
-juh1{
+h1{
     color:blue
 }
 
@@ -23,16 +23,20 @@ body{
     background-color: black
 }
 
-img{
-    height:
+
+
+#warframe{
+    width:100%
 }
+
+
 
 p{
     border-style:dotted;
     padding: 20px;
     margin: 20px;
-    width: 25%; 
-    height: 150px;
+    width: 55%; 
+    height: 98px;
 }
 
 a:link {
